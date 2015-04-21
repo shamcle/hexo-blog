@@ -1,13 +1,11 @@
 # Header
 menu:
-  首页: /
-  文章: /archives
-  关于我: /about
-
-#rss: /atom.xml
+  Home: /
+  Archives: /archives
+rss: /atom.xml
 
 # Content
-excerpt_link: 更多
+excerpt_link: Read More
 fancybox: true
 
 # Sidebar
